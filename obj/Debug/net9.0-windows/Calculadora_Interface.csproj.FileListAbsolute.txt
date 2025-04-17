@@ -1,0 +1,42 @@
+E:\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\Calculadora_Interface.exe
+E:\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\Calculadora_Interface.deps.json
+E:\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\Calculadora_Interface.runtimeconfig.json
+E:\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\Calculadora_Interface.dll
+E:\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\Calculadora_Interface.pdb
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.csproj.GenerateResource.cache
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.AssemblyInfoInputs.cache
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.AssemblyInfo.cs
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.csproj.CoreCompileInputs.cache
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.dll
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\refint\Calculadora_Interface.dll
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.pdb
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.genruntimeconfig.cache
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\ref\Calculadora_Interface.dll
+E:\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\MARS.dll
+E:\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\MARS.pdb
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.csproj.AssemblyReference.cache
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculad.14DD723A.Up2Date
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.sourcelink.json
+E:\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.Calculadora.resources
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\Calculadora_Interface.exe
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\Calculadora_Interface.deps.json
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\Calculadora_Interface.runtimeconfig.json
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\Calculadora_Interface.dll
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\Calculadora_Interface.pdb
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\MARS.dll
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\bin\Debug\net9.0-windows\MARS.pdb
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.csproj.AssemblyReference.cache
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.Calculadora.resources
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.csproj.GenerateResource.cache
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.AssemblyInfoInputs.cache
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.AssemblyInfo.cs
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.csproj.CoreCompileInputs.cache
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.sourcelink.json
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculad.14DD723A.Up2Date
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.dll
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\refint\Calculadora_Interface.dll
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.pdb
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\Calculadora_Interface.genruntimeconfig.cache
+E:\Linguagens Programação\C#\Calculadora_Interface\Calculadora_Interface\obj\Debug\net9.0-windows\ref\Calculadora_Interface.dll
